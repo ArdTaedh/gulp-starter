@@ -1,0 +1,8 @@
+$color: red;
+
+@import "gloabals";
+@import "header";
+
+body {
+  background: $color;
+}
